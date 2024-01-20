@@ -1,5 +1,5 @@
 import React from 'react'
-import useTheme from '../contax/theme'
+import useTheme from '../contax/Thime'
 
 
 export default function ThemeBtn() {
